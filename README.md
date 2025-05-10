@@ -45,3 +45,17 @@ Django
 
 ## Results
 ![Accuracy Score]()
+
+##  User Inputs and Cardiac Arrest Prediction Output
+
+![user input](https://github.com/Hanif-003/Cardiac-Arrest-Prediction/blob/main/images/Intro-P1.png?raw=true)
+
+![user input](https://github.com/Hanif-003/Cardiac-Arrest-Prediction/blob/main/images/Intro-P2.png?raw=true)
+
+![output](https://github.com/Hanif-003/Cardiac-Arrest-Prediction/blob/main/images/Output-P2.png?raw=true)
+
+![user input](https://github.com/Hanif-003/Cardiac-Arrest-Prediction/blob/main/images/Intro-N1.png?raw=true)
+
+![user input](https://github.com/Hanif-003/Cardiac-Arrest-Prediction/blob/main/images/Intro-N2.png?raw=true)
+
+![output](https://github.com/Hanif-003/Cardiac-Arrest-Prediction/blob/main/images/Output-N1.png?raw=true)
